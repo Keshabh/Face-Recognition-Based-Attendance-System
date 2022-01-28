@@ -3,7 +3,7 @@
 
 ## DESCRIPTION
 1. 1st page will have 2 buttons , 1 for student and other for teacher.
-2. if student button is pressed, it will take us to a session page( A session page will have multiple sessions started by multiple teachers).
+2. If student button is pressed, it will take us to a session page( A session page will have multiple sessions started by multiple teachers).
   2a. In the session page, we will select the session of our teacher, then it will ask us to enter our registration number.
   2b. If the resgistration number is correct, then it will allow us to the anoter page.
   2c. In this new page, we will have options to open camera and take picture, once the pciture is clicked by the student, the system will notify the user
