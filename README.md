@@ -1,5 +1,7 @@
 # Mini-Project
-<img width="949" alt="image" src="https://user-images.githubusercontent.com/55504424/151436697-45f66513-b889-4046-ac0a-a297b4d8bb9f.png">
+<img width="902" alt="image" src="https://user-images.githubusercontent.com/55504424/151784749-89627cca-609e-4421-bfc9-32c72b51537c.png">
+<img width="629" alt="image" src="https://user-images.githubusercontent.com/55504424/151784840-eecf5a52-3f9a-437f-8414-8481386f3e85.png">
+
 
 ## DESCRIPTION
 1. 1st page will have 2 buttons , 1 for student and other for teacher.   
