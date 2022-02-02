@@ -33,6 +33,8 @@
 5. On Students session page, all the classes will be shown whether live or schedules,  
    Live class will be provided red live indicator and end time will be mentioned for each session ( Ex: This session will expire in 30 min(it will be a running time) or we will show the exact session expire time Ex:" This session will expire at 2:30 pm").
    Out of both live and schedules session links, live will be active while scheduled will be disabled.
-   Scheduled button will be disabled(It wont work when pressed, it will only work when its session time matches with the current time). In this we will show session time for which it will be valid or active.
+   Scheduled button will be disabled(It wont work when pressed, it will only work when its session time matches with the current time). In this we will show session time for which it will be valid or active.   
+6. The sessions in student page will be shown in sorted order of date and time.
+7. The sessions will be either shown in tabular format or box format.
    
       
