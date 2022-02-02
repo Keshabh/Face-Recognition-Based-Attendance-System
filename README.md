@@ -1,12 +1,12 @@
-# Mini-Project**
-**DATAFLOW**
-<img width="902" alt="image" src="https://user-images.githubusercontent.com/55504424/151784749-89627cca-609e-4421-bfc9-32c72b51537c.png">
-**HOMEPAGE**
-<img width="629" alt="image" src="https://user-images.githubusercontent.com/55504424/151784840-eecf5a52-3f9a-437f-8414-8481386f3e85.png">
-**TEACHERS LOGIN PAGE**
-<img width="629" alt="image" src="https://user-images.githubusercontent.com/55504424/152151476-670f3c95-8209-4203-bd81-25c619af4f0d.png">
-**sTUDENTS SESSION PAGE**
-<img width="518" alt="image" src="https://user-images.githubusercontent.com/55504424/152150193-98712090-43c6-4672-9275-20528e91e597.png">
+# Mini-Project  
+**DATAFLOW**  
+<img width="902" alt="image" src="https://user-images.githubusercontent.com/55504424/151784749-89627cca-609e-4421-bfc9-32c72b51537c.png">   
+**HOMEPAGE**  
+<img width="629" alt="image" src="https://user-images.githubusercontent.com/55504424/151784840-eecf5a52-3f9a-437f-8414-8481386f3e85.png">  
+**TEACHERS LOGIN PAGE**  
+<img width="629" alt="image" src="https://user-images.githubusercontent.com/55504424/152151476-670f3c95-8209-4203-bd81-25c619af4f0d.png">  
+**sTUDENTS SESSION PAGE**  
+<img width="518" alt="image" src="https://user-images.githubusercontent.com/55504424/152150193-98712090-43c6-4672-9275-20528e91e597.png">  
 
 
 
