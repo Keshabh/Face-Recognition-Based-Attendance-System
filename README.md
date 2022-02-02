@@ -31,5 +31,8 @@
 3. while creating session, session time will be set for any date and time( i.e it can be live or scheduled).   
 4. By default, session data will be set to today's date(date when teacher is creating session), and default session start time will be current  time and session end time will be current time + 30 minutes.  
 5. On Students session page, all the classes will be shown whether live or schedules,  
-   Live class will be provided red
+   Live class will be provided red live indicator and end time will be mentioned for each session ( Ex: This session will expire in 30 min(it will be a running time) or we will show the exact session expire time Ex:" This session will expire at 2:30 pm").
+   Out of both live and schedules session links, live will be active while scheduled will be disabled.
+   Scheduled button will be disabled(It wont work when pressed, it will only work when its session time matches with the current time). In this we will show session time for which it will be valid or active.
+   
       
