@@ -27,5 +27,9 @@
 
 ### NOTE:
 1. Students can only login to the specific session , if the teacher has uploaded the xlsx file with the registration numbers of students.( so that no other students from other class can login for the session).  
-2. The passkey/password for the teacaher's account will be provided by the Admin, which can be modified upon teacher's request.  
+2. The passkey/password for the teacaher's account will be provided by the Admin, which can be modified upon teacher's request.   
+3. while creating session, session time will be set for any date and time( i.e it can be live or scheduled).   
+4. By default, session data will be set to today's date(date when teacher is creating session), and default session start time will be current  time and session end time will be current time + 30 minutes.  
+5. On Students session page, all the classes will be shown whether live or schedules,  
+   Live class will be provided red
       
