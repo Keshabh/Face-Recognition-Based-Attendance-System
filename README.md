@@ -36,5 +36,6 @@
    Scheduled button will be disabled(It wont work when pressed, it will only work when its session time matches with the current time). In this we will show session time for which it will be valid or active.   
 6. The sessions in student page will be shown in sorted order of date and time.
 7. The sessions will be either shown in tabular format or box format.
+8. Session name once put by teacher will become permanent and will be shown as an input every next time, teacher puts the name( so that teacher just once have to create sessio name, and that session name will be used as default name everytime.) 
    
       
