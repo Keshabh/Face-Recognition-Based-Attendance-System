@@ -36,6 +36,15 @@
    Scheduled button will be disabled(It wont work when pressed, it will only work when its session time matches with the current time). In this we will show session time for which it will be valid or active.   
 6. The sessions in student page will be shown in sorted order of date and time.
 7. The sessions will be either shown in tabular format or box format.
-8. Session name once put by teacher will become permanent and will be shown as an input every next time, teacher puts the name( so that teacher just once have to create sessio name, and that session name will be used as default name everytime.) 
+8. Session name once put by teacher will become permanent and will be shown as an input every next time, teacher puts the name( so that teacher just once have to create sessio name, and that session name will be used as default name everytime.)    
+9. Every new session name input will be stored in the database and will be shown as dropown while entering the session name by teacher.  
+10. Teacher will have options to edit and delete the created sessions.  
+
+11. Data to be shown in student session page:   
+     1) Live   
+     2) Session name :either( subject code or subject name) or both, and section(it is must)    
+     3) Teacher name(who created the session).   
+     4) Running time or time left in live sessions.  
+     5) Start time(could be date+time) will be shown in the scheduled one.( At what time ,this session will be live).   
    
       
